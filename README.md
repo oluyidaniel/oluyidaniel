@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oluwatobi Daniel
+# 👋 Hi, I'm Oluyi Daniel
 
 🚀 **AI Engineer | Systems Architect | Full-Stack Developer**
 Building intelligent systems, scalable applications, and future-focused tech solutions.
@@ -82,21 +82,21 @@ I’m a developer focused on designing and building **AI-powered systems**, secu
 
 ## 📊 GitHub Stats
 
-![Oluwatobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluyidaniel\&show_icons=true\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=oluyidaniel\&theme=radical)
 
 ---
 
 ## 🧩 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oluyidaniel\&theme=react-dark)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
+* 💼 LinkedIn: ([Add your link](https://www.linkedin.com/in/oluyi-daniel/))
 * 🌍 Portfolio: (Add when ready)
 * 🐦 Twitter/X: (Optional)
 
@@ -104,7 +104,7 @@ I’m a developer focused on designing and building **AI-powered systems**, secu
 
 ## 🧠 Philosophy
 
-> I build systems that don’t just work — they scale, learn, and solve real-world problems.
+> I build systems that don’t just work, they scale, learn, and solve real-world problems.
 
 ---
 
