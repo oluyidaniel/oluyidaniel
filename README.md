@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Oluyi Daniel
 
-🚀 **AI Engineer | Systems Architect | Full-Stack Developer**
+🚀 **AI & ML Engineer | Systems Architect | Full-Stack Developer**
 Building intelligent systems, scalable applications, and future-focused tech solutions.
 
 ---
