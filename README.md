@@ -20,6 +20,7 @@ I’m a developer focused on designing and building **AI-powered systems**, secu
 
 * 🤖 AI-powered Cyber Threat Detection System
 * 🎬 Smart Movie Recommendation Engine
+* 🤖 Nigerian Tax Intelligence System https://github.com/oluyidaniel/tax_intelligence_ml.git
 * 💰 Decentralized Finance (DeFi) Application
 * 🧠 AI Quiz Platform with Adaptive Learning
 
