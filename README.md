@@ -22,7 +22,7 @@ I’m a developer focused on designing and building **AI-powered systems**, secu
 * 🎬 Smart Movie Recommendation Engine
 * 🤖 Nigerian Tax Intelligence System https://github.com/oluyidaniel/tax_intelligence_ml.git
 * 💰 Decentralized Finance (DeFi) Application
-* 🧠 AI Quiz Platform with Adaptive Learning
+* 🧠 AI Quiz Platform with Adaptive Learning https://github.com/oluyidaniel/CortexIQ.git
 
 ---
 
